@@ -16,9 +16,9 @@ Or we could Edit configuration and choose which test to run
 This is possible by jUnit.
 
 
-##### Improvements
+#### Improvements
 
-We could add BDD - Cucumber for feature file, then add 3 other layes such as stepDef, step, and unit layer
+We could add BDD - Cucumber for feature file, then add 3 other layes such as stepDef, step, and unit layer,
 I could add an Enum class for selectors
 
 
